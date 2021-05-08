@@ -126,6 +126,12 @@ body {
     max-width: 1152px;
   }
 }
+
+.main-wrapper{
+  position: relative;
+  width: 100%;
+}
+
 header.topbar {
   background: var(--secondary);
   color: var (--pure);
